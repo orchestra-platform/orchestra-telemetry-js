@@ -1,0 +1,20 @@
+{
+  "name": "orchestra-telemetry-js",
+  "version": "0.0.1",
+  "description": "Library for sending data to Orchestra Telemetry (https://www.orchestra.it/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orchestra-platform/orchestra-telemetry-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orchestra-platform/orchestra-telemetry-js/issues"
+  },
+  "homepage": "https://github.com/orchestra-platform/orchestra-telemetry-js#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
